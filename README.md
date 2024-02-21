@@ -8,7 +8,7 @@ For instance, the use of words like ‘dominant’ or ‘competitive’ can diss
 
 ## Demo
 
-[Once the project is deployed, put the demo link](https://omdena-equijob.netlify.app/)
+[Demo](https://omdena-equijob.netlify.app/)
 
 ## Contribution Guidelines
 
